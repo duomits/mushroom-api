@@ -10,7 +10,7 @@ const mushrooms = {
     'unknown': {
         'commonName' : 'unknown',
         'scientificName' : 'unknown',
-        'genus' : 'unknown',
+        'otherNames' : 'unknown',
         'features' : 'unknown',
         'edibility' : 'unknown',
         'image' : 'none'
